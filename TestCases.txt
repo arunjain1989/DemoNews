@@ -1,0 +1,12 @@
+1. MVP and singlton pattern used.
+
+Good programing approch which we dont do in our code.
+1. not used static keywords.try to avoid
+2. if code is length we used small small methods in code.so our code is readble easily.
+3. always include UI and functional UI test.
+4. Use Proguard in our code.This will remove all your unused code, which will reduce APK size.
+5 reused resources like string ,constants files.
+6 reused objects.avoid creating unneccessary objects.
+7.use http library for network like retrofit
+8.Dont do much work on main thread.
+9.Use Fragment when it is required.
